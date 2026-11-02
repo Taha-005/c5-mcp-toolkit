@@ -1,10 +1,10 @@
-
 # C5: Weather Outing Planner (MCP Toolkit)
 
 EECE 503P/798S Agentic Systems, Assignment C5. A FastMCP server with exactly three tools, connected to an OpenAI Agents SDK agent (running on Groq) that acts as the MCP Host/Client.
 
 - **Part 1 summary:** [PART1_SUMMARY.md](PART1_SUMMARY.md)
 - **Reflection:** [REFLECTION.md](REFLECTION.md)
+- **Screencast:** https://youtu.be/SbRI1KiFBI4
 
 ## Architecture
 
